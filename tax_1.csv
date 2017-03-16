@@ -1,0 +1,150 @@
+,AvgLineDensity,FontColor,FontFamily,FontName,FontSize,FontWeight,LineHeight,LineID,LineStartX,LineStartY,LineText,LineWidth,PageNo,TextGroupSeparator,WordDistance,WordHeight,WordID,WordStartX,WordStartY,WordValue,WordWidth
+0,8.0,, swiss, comic sans ms,12.5, bold,56,0,617,800,Tyco Australia Pty Limited TAX INVOICE NUMBER: 611656,1535,0,False,0.0,55,0,617,801,Tyco,109
+1,8.0,, swiss, comic sans ms,12.5, bold,56,0,617,800,Tyco Australia Pty Limited TAX INVOICE NUMBER: 611656,1535,0,False,15.0,42,1,741,801,Australia,202
+2,8.0,, swiss, comic sans ms,12.5, bold,56,0,617,800,Tyco Australia Pty Limited TAX INVOICE NUMBER: 611656,1535,0,False,19.0,55,2,962,801,Pty,70
+3,8.0,, swiss, comic sans ms,12.5, bold,56,0,617,800,Tyco Australia Pty Limited TAX INVOICE NUMBER: 611656,1535,0,False,18.0,42,3,1050,801,Limited,165
+4,8.0, 5f5f5f, swiss, comic sans ms,9.5, bold,56,0,617,800,Tyco Australia Pty Limited TAX INVOICE NUMBER: 611656,1535,0,True,316.0,34,4,1531,803,TAX,75
+5,8.0, 5f5f5f, swiss, comic sans ms,9.5, bold,56,0,617,800,Tyco Australia Pty Limited TAX INVOICE NUMBER: 611656,1535,0,False,12.0,34,5,1618,803,INVOICE,150
+6,8.0, 5f5f5f, swiss, comic sans ms,9.5, bold,56,0,617,800,Tyco Australia Pty Limited TAX INVOICE NUMBER: 611656,1535,0,False,15.0,34,6,1783,803,NUMBER:,172
+7,8.0,, swiss, comic sans ms,11.5, bold,56,0,617,800,Tyco Australia Pty Limited TAX INVOICE NUMBER: 611656,1535,0,False,62.0,37,7,2017,800,611656,135
+8,7.0,, swiss, comic sans ms,12.5, bold,68,0,618,875,Locked Bag 3010 INVOICE DATE : 28-Nov-16,1593,0,False,0.0,44,0,618,888,Locked,163
+9,7.0,, swiss, comic sans ms,12.5, bold,68,0,618,875,Locked Bag 3010 INVOICE DATE : 28-Nov-16,1593,0,False,19.0,55,1,800,888,Bag,85
+10,7.0,, swiss, comic sans ms,12.5, bold,68,0,618,875,Locked Bag 3010 INVOICE DATE : 28-Nov-16,1593,0,False,16.0,44,2,901,888,3010,104
+11,7.0, 5f5f5f, swiss, comic sans ms,9.5, bold,68,0,618,875,Locked Bag 3010 INVOICE DATE : 28-Nov-16,1593,0,True,527.0,34,3,1532,878,INVOICE,151
+12,7.0, 5f5f5f, swiss, comic sans ms,9.5, bold,68,0,618,875,Locked Bag 3010 INVOICE DATE : 28-Nov-16,1593,0,False,14.0,34,4,1697,878,DATE,99
+13,7.0, 5f5f5f, swiss, comic sans ms,9.5, bold,68,0,618,875,Locked Bag 3010 INVOICE DATE : 28-Nov-16,1593,0,False,16.0,25,5,1812,887,:,5
+14,7.0,, swiss, comic sans ms,11.5, bold,68,0,618,875,Locked Bag 3010 INVOICE DATE : 28-Nov-16,1593,0,False,200.0,37,6,2017,875,28-Nov-16,194
+15,8.0,, swiss, comic sans ms,12.5, bold,82,0,616,950,West Footscray 3012 VIC DUE DATE : 28-Dec-16,1592,0,False,0.0,43,0,616,977,West,114
+16,8.0,, swiss, comic sans ms,12.5, bold,82,0,616,950,West Footscray 3012 VIC DUE DATE : 28-Dec-16,1592,0,False,17.0,55,1,747,977,Footscray,224
+17,8.0,, swiss, comic sans ms,12.5, bold,82,0,616,950,West Footscray 3012 VIC DUE DATE : 28-Dec-16,1592,0,False,15.0,43,2,986,977,3012,104
+18,8.0,, swiss, comic sans ms,12.5, bold,82,0,616,950,West Footscray 3012 VIC DUE DATE : 28-Dec-16,1592,0,False,15.0,44,3,1105,976,VIC,77
+19,8.0, 5f5f5f, swiss, comic sans ms,9.5, bold,82,0,616,950,West Footscray 3012 VIC DUE DATE : 28-Dec-16,1592,0,True,350.0,34,4,1532,953,DUE,75
+20,8.0, 5f5f5f, swiss, comic sans ms,9.5, bold,82,0,616,950,West Footscray 3012 VIC DUE DATE : 28-Dec-16,1592,0,False,15.0,34,5,1622,953,DATE,99
+21,8.0, 5f5f5f, swiss, comic sans ms,9.5, bold,82,0,616,950,West Footscray 3012 VIC DUE DATE : 28-Dec-16,1592,0,False,15.0,25,6,1736,962,:,6
+22,8.0,, swiss, comic sans ms,11.5, bold,82,0,616,950,West Footscray 3012 VIC DUE DATE : 28-Dec-16,1592,0,True,275.0,37,7,2017,950,28-Dec-16,191
+23,1.0,, swiss, comic sans ms,9, bold,43,0,616,1048,TYCO.AUFireSec@prod.rapid.ihost.com,681,0,True,0.0,43,0,616,1048,TYCO.AUFireSec@prod.rapid.ihost.com,681
+24,2.0,, swiss, comic sans ms,12.5, bold,55,0,1093,1262,ADT Security,300,0,False,0.0,43,0,1093,1262,ADT,99
+25,2.0,, swiss, comic sans ms,12.5, bold,55,0,1093,1262,ADT Security,300,0,True,15.0,55,1,1207,1262,Security,186
+26,7.0,, swiss, comic sans ms,9.5, bold,44,0,763,1342,Service Date Item Price (ex GST) GST,1523,0,False,0.0,35,0,763,1342,Service,133
+27,7.0,, swiss, comic sans ms,9.5, bold,44,0,763,1342,Service Date Item Price (ex GST) GST,1523,0,False,12.0,35,1,908,1342,Date,79
+28,7.0,, swiss, comic sans ms,9.5, bold,44,0,763,1342,Service Date Item Price (ex GST) GST,1523,0,False,191.0,35,2,1178,1342,Item,74
+29,7.0,, swiss, comic sans ms,9.5, bold,44,0,763,1342,Service Date Item Price (ex GST) GST,1523,0,True,345.0,35,3,1597,1342,Price,89
+30,7.0,, swiss, comic sans ms,9.5, bold,44,0,763,1342,Service Date Item Price (ex GST) GST,1523,0,False,11.0,44,4,1697,1342,(ex,55
+31,7.0,, swiss, comic sans ms,9.5, bold,44,0,763,1342,Service Date Item Price (ex GST) GST,1523,0,False,10.0,44,5,1762,1342,GST),88
+32,7.0,, swiss, comic sans ms,9.5, bold,44,0,763,1342,Service Date Item Price (ex GST) GST,1523,0,True,361.0,35,6,2211,1342,GST,75
+33,2.0,, swiss, comic sans ms,12.5, bold,57,0,112,1418,Stephen SKELLY,405,0,False,0.0,57,0,112,1418,Stephen,191
+34,2.0,, swiss, comic sans ms,12.5, bold,57,0,112,1418,Stephen SKELLY,405,0,True,19.0,45,1,322,1418,SKELLY,195
+35,2.0,, swiss, calibri,11,,40,0,752,1536,Customer Service/Office,450,0,False,0.0,30,0,752,1540,Customer,179
+36,2.0,, swiss, calibri,11,,40,0,752,1536,Customer Service/Office,450,0,True,12.0,40,1,943,1536,Service/Office,259
+37,2.0,, swiss, calibri,11,,65,0,262,1540,Job Description:,295,0,False,0.0,31,0,262,1566,Job,60
+38,2.0,, swiss, calibri,11,,65,0,262,1540,Job Description:,295,0,True,15.0,38,1,337,1567,Description:,220
+39,1.0,, swiss, calibri,11,,31,0,753,1595,Environment,237,0,True,0.0,31,0,753,1595,Environment,237
+40,1.0,, swiss, calibri,11,,31,0,1382,1667,Purchase,165,0,True,0.0,31,0,1382,1667,Purchase,165
+41,5.0,, swiss, calibri,11,,67,0,265,1668,Requesting Manager: Jazmine Kirk 9382191,1490,0,False,0.0,39,0,265,1696,Requesting,203
+42,5.0,, swiss, calibri,11,,67,0,265,1668,Requesting Manager: Jazmine Kirk 9382191,1490,0,False,14.0,38,1,482,1697,Manager:,175
+43,5.0,, swiss, calibri,11,,67,0,265,1668,Requesting Manager: Jazmine Kirk 9382191,1490,0,False,94.0,31,2,751,1696,Jazmine,146
+44,5.0,, swiss, calibri,11,,67,0,265,1668,Requesting Manager: Jazmine Kirk 9382191,1490,0,False,15.0,32,3,912,1695,Kirk,68
+45,5.0,, swiss, calibri,11,,67,0,265,1668,Requesting Manager: Jazmine Kirk 9382191,1490,0,True,616.0,30,4,1596,1697,9382191,159
+46,2.0,, swiss, calibri,11,,33,0,1350,1722,Order Nbr:,196,0,False,0.0,33,0,1350,1722,Order,106
+47,2.0,, swiss, calibri,11,,33,0,1350,1722,Order Nbr:,196,0,True,14.0,33,1,1470,1722,Nbr:,76
+48,3.0,, swiss, calibri,11,,39,0,262,1796,Work Site: Rydalmere,688,0,False,0.0,31,0,262,1796,Work,100
+49,3.0,, swiss, calibri,11,,39,0,262,1796,Work Site: Rydalmere,688,0,False,13.0,30,1,375,1797,Site:,77
+50,3.0,, swiss, calibri,11,,39,0,262,1796,Work Site: Rydalmere,688,0,True,301.0,39,2,753,1796,Rydalmere,197
+51,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,0.0,27,0,265,1871,28-Nov-16,175
+52,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,12.0,36,1,452,1870,Pre-placement,245
+53,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,15.0,33,2,712,1870,"Medical,",140
+54,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,11.0,35,3,863,1871,"Spiro,",94
+55,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,13.0,28,4,970,1870,Audio,97
+56,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,14.0,28,5,1081,1870,&,25
+57,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,11.0,35,6,1117,1871,Cup,64
+58,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,11.0,26,7,1192,1872,Test,70
+59,11.0,, swiss, calibri,10,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,False,13.0,37,8,1275,1868,(INPPZ),121
+60,11.0,, swiss, calibri,11,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,True,201.0,40,9,1597,1865,$361.70,148
+61,11.0,, swiss, calibri,11,,41,0,265,1865,"28-Nov-16 Pre-placement Medical, Spiro, Audio & Cup Test (INPPZ) $361.70 $36.17",2070,0,True,467.0,40,10,2212,1865,$36.17,123
+62,5.0,, swiss, calibri,10.5,,40,0,970,2047,INVOICE TOTAL EXCLUDING GST: $361.70,775,0,False,0.0,29,0,970,2052,INVOICE,142
+63,5.0,, swiss, calibri,10.5,,40,0,970,2047,INVOICE TOTAL EXCLUDING GST: $361.70,775,0,False,14.0,29,1,1126,2052,TOTAL,115
+64,5.0,, swiss, calibri,10.5,,40,0,970,2047,INVOICE TOTAL EXCLUDING GST: $361.70,775,0,False,12.0,29,2,1253,2052,EXCLUDING,202
+65,5.0,, swiss, calibri,10.5,,40,0,970,2047,INVOICE TOTAL EXCLUDING GST: $361.70,775,0,False,13.0,29,3,1468,2052,GST:,78
+66,5.0,, swiss, calibri,11,,40,0,970,2047,INVOICE TOTAL EXCLUDING GST: $361.70,775,0,True,51.0,40,4,1597,2047,$361.70,148
+67,5.0,, swiss, calibri,11,,40,0,115,2136,DUE DATE: 28-Dec-16 GST: $36.17,1605,0,False,0.0,30,0,115,2141,DUE,75
+68,5.0,, swiss, calibri,11,,40,0,115,2136,DUE DATE: 28-Dec-16 GST: $36.17,1605,0,False,15.0,30,1,205,2141,DATE:,116
+69,5.0,, swiss, calibri,11,,40,0,115,2136,DUE DATE: 28-Dec-16 GST: $36.17,1605,0,False,296.0,30,2,617,2141,28-Dec-16,188
+70,5.0,, swiss, calibri,10.5,,40,0,115,2136,DUE DATE: 28-Dec-16 GST: $36.17,1605,0,True,655.0,29,3,1460,2142,GST:,86
+71,5.0,, swiss, calibri,11,,40,0,115,2136,DUE DATE: 28-Dec-16 GST: $36.17,1605,0,False,51.0,40,4,1597,2136,$36.17,123
+72,9.0,, swiss, calibri,11,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,False,0.0,30,0,112,2238,TAX,71
+73,9.0,, swiss, calibri,11,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,False,14.0,30,1,197,2238,INVOICE,150
+74,9.0,, swiss, calibri,11,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,False,16.0,30,2,363,2238,NUMBER:,188
+75,9.0,, swiss, calibri,11,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,False,66.0,30,3,617,2238,611656,135
+76,9.0,, swiss, calibri,10.5,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,True,190.0,29,4,942,2238,INVOICE,144
+77,9.0,, swiss, calibri,10.5,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,False,12.0,29,5,1098,2238,TOTAL,115
+78,9.0,, swiss, calibri,10.5,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,False,14.0,29,6,1227,2238,EXCLUDING,200
+79,9.0,, swiss, calibri,10.5,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,False,15.0,29,7,1442,2238,GST:,78
+80,9.0,, swiss, calibri,11,,40,0,112,2233,TAX INVOICE NUMBER: 611656 INVOICE TOTAL EXCLUDING GST: $361.70,1633,0,False,77.0,40,8,1597,2233,$361.70,148
+81,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,0.0,23,0,113,2900,Printed:,104
+82,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,11.0,29,1,228,2898,29/11/2016,159
+83,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,10.0,22,2,397,2901,12:03:54,116
+84,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,9.0,21,3,522,2902,AM,45
+85,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,True,490.0,27,4,1057,2901,InjuryNET,130
+86,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,9.0,23,5,1196,2900,Australia,116
+87,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,13.0,26,6,1325,2902,Pty.,47
+88,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,11.0,23,7,1383,2900,Ltd.,48
+89,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,True,821.0,28,8,2252,2873,Page,63
+90,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,11.0,22,9,2326,2873,1,12
+91,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,12.0,24,10,2350,2872,of,27
+92,12.0,, swiss, calibri,8,,57,0,113,2871,Printed: 29/11/2016 12:03:54 AM InjuryNET Australia Pty. Ltd. Page 1 of 1,2285,0,False,9.0,22,11,2386,2873,1,12
+0,, 190092, roman, times new roman,26, bold,79,0,942,353,Tax Invoice,550,0,False,0.0,77,0,942,355,Tax,180
+1,, 190092, roman, times new roman,26, bold,79,0,942,353,Tax Invoice,550,0,True,30.0,79,1,1152,353,Invoice,340
+2,,, swiss, calibri,11,,39,0,1885,162,InjuryNET Australia Pty. Ltd.,513,0,False,0.0,39,0,1885,162,InjuryNET,177
+3,,, swiss, calibri,11,,39,0,1885,162,InjuryNET Australia Pty. Ltd.,513,0,False,11.0,31,1,2073,162,Australia,163
+4,,, swiss, calibri,11,,39,0,1885,162,InjuryNET Australia Pty. Ltd.,513,0,False,16.0,38,2,2252,163,Pty.,65
+5,,, swiss, calibri,11,,39,0,1885,162,InjuryNET Australia Pty. Ltd.,513,0,False,16.0,31,3,2333,162,Ltd.,65
+6,,, swiss, calibri,11,,37,1,1812,235,"Office: Level 1, 173 Burke Road,",585,0,False,0.0,32,0,1812,235,Office:,118
+7,,, swiss, calibri,11,,37,1,1812,235,"Office: Level 1, 173 Burke Road,",585,0,False,17.0,32,1,1947,235,Level,90
+8,,, swiss, calibri,11,,37,1,1812,235,"Office: Level 1, 173 Burke Road,",585,0,False,15.0,35,2,2052,237,"1,",30
+9,,, swiss, calibri,11,,37,1,1812,235,"Office: Level 1, 173 Burke Road,",585,0,False,15.0,30,3,2097,237,173,65
+10,,, swiss, calibri,11,,37,1,1812,235,"Office: Level 1, 173 Burke Road,",585,0,False,15.0,32,4,2177,235,Burke,105
+11,,, swiss, calibri,11,,37,1,1812,235,"Office: Level 1, 173 Burke Road,",585,0,False,15.0,37,5,2297,235,"Road,",100
+12,,, swiss, calibri,11,,38,2,2068,307,"Glen Iris, Vic 3146",330,0,False,0.0,31,0,2068,307,Glen,82
+13,,, swiss, calibri,11,,38,2,2068,307,"Glen Iris, Vic 3146",330,0,True,17.0,38,1,2167,307,"Iris,",61
+14,,, swiss, calibri,11,,38,2,2068,307,"Glen Iris, Vic 3146",330,0,False,14.0,31,2,2242,307,Vic,54
+15,,, swiss, calibri,11,,38,2,2068,307,"Glen Iris, Vic 3146",330,0,False,14.0,30,3,2310,308,3146,88
+16,,, swiss, calibri,11,,32,3,2011,380,ABN: 37 105 352 501,387,0,False,0.0,30,0,2011,382,ABN:,90
+17,,, swiss, calibri,11,,32,3,2011,380,ABN: 37 105 352 501,387,0,False,15.0,30,1,2116,382,37,41
+18,,, swiss, calibri,11,,32,3,2011,380,ABN: 37 105 352 501,387,0,False,16.0,30,2,2173,382,105,64
+19,,, swiss, calibri,11,,32,3,2011,380,ABN: 37 105 352 501,387,0,False,15.0,30,3,2252,382,352,66
+20,,, swiss, calibri,11,,32,3,2011,380,ABN: 37 105 352 501,387,0,False,14.0,30,4,2332,382,501,66
+21,,, swiss, calibri,11,,40,4,1982,451,Phone: (03) 9500 9968,416,0,False,0.0,31,0,1982,452,Phone:,124
+22,,, swiss, calibri,11,,40,4,1982,451,Phone: (03) 9500 9968,416,0,False,16.0,40,1,2122,451,(03),69
+23,,, swiss, calibri,11,,40,4,1982,451,Phone: (03) 9500 9968,416,0,False,15.0,30,2,2206,453,9500,90
+24,,, swiss, calibri,11,,40,4,1982,451,Phone: (03) 9500 9968,416,0,False,12.0,30,3,2308,453,9968,90
+25,,, swiss, calibri,11,,40,5,2037,523,Fax: (03) 9012 3521,360,0,False,0.0,30,0,2037,527,Fax:,69
+26,,, swiss, calibri,11,,40,5,2037,523,Fax: (03) 9012 3521,360,0,False,16.0,40,1,2122,523,(03),69
+27,,, swiss, calibri,11,,40,5,2037,523,Fax: (03) 9012 3521,360,0,False,15.0,30,2,2206,527,9012,89
+28,,, swiss, calibri,11,,40,5,2037,523,Fax: (03) 9012 3521,360,0,False,15.0,30,3,2310,527,3521,87
+29,,, swiss, calibri,11,,40,6,1753,597,Email: accounts@injurynet.com.au,644,0,False,0.0,33,0,1753,597,Email:,109
+30,,, swiss, calibri,11,,40,6,1753,597,Email: accounts@injurynet.com.au,644,0,True,15.0,39,1,1877,598,accounts@injurynet.com.au,520
+31,,, swiss, calibri,11,,39,7,1797,653,Website: www.injurynet.com.au,600,0,False,0.0,33,0,1797,653,Website:,161
+32,,, swiss, calibri,11,,39,7,1797,653,Website: www.injurynet.com.au,600,0,True,15.0,37,1,1973,655,www.injurynet.com.au,424
+33,,, swiss, calibri,8,,29,0,113,2581,Banking Details,205,0,False,0.0,29,0,113,2581,Banking,105
+34,,, swiss, calibri,8,,29,0,113,2581,Banking Details,205,0,True,10.0,24,1,228,2581,Details,90
+35,,, swiss, calibri,8,,28,1,112,2640,Acct Name Injurynet Australia Pty Ltd,504,0,False,0.0,21,0,112,2642,Acct,58
+36,,, swiss, calibri,8,,28,1,112,2640,Acct Name Injurynet Australia Pty Ltd,504,0,False,10.0,21,1,180,2642,Name,77
+37,,, swiss, calibri,8,,28,1,112,2640,Acct Name Injurynet Australia Pty Ltd,504,0,False,10.0,27,2,267,2641,Injurynet,121
+38,,, swiss, calibri,8,,28,1,112,2640,Acct Name Injurynet Australia Pty Ltd,504,0,False,9.0,23,3,397,2640,Australia,118
+39,,, swiss, calibri,8,,28,1,112,2640,Acct Name Injurynet Australia Pty Ltd,504,0,False,12.0,26,4,527,2642,Pty,40
+40,,, swiss, calibri,8,,28,1,112,2640,Acct Name Injurynet Australia Pty Ltd,504,0,False,10.0,23,5,577,2640,Ltd,39
+41,,, swiss, calibri,8,,24,2,122,2698,BSB 083-155,165,0,False,0.0,24,0,122,2698,BSB,48
+42,,, swiss, calibri,8,,24,2,122,2698,BSB 083-155,165,0,True,10.0,24,1,180,2698,083-155,107
+43,,, swiss, calibri,8,,24,3,112,2757,Acct No: 573093486,273,0,False,0.0,23,0,112,2758,Acct,58
+44,,, swiss, calibri,8,,24,3,112,2757,Acct No: 573093486,273,0,False,10.0,23,1,180,2758,No:,43
+45,,, swiss, calibri,8,,24,3,112,2757,Acct No: 573093486,273,0,True,12.0,24,2,235,2757,573093486,150
+46,,, swiss, calibri,8,,29,0,941,2618,Credit Card Payments,291,0,False,0.0,24,0,941,2618,Credit,80
+47,,, swiss, calibri,8,,29,0,941,2618,Credit Card Payments,291,0,False,10.0,24,1,1031,2618,Card,59
+48,,, swiss, calibri,8,,29,0,941,2618,Credit Card Payments,291,0,True,12.0,26,2,1102,2621,Payments,130
+49,,,,,,,29,1,942,2658,https://www.injurynet.com.au/payments/,573,0,True,0.0,29,0,942,2658,https://www.injurynet.com.au/payments/,573
+50,,, swiss, calibri,8,,29,2,942,2717,Please note: Credit card fees apply.,471,0,False,0.0,24,0,942,2717,Please,83
+51,,, swiss, calibri,8,,29,2,942,2717,Please note: Credit card fees apply.,471,0,False,12.0,21,1,1037,2720,note:,66
+52,,, swiss, calibri,8,,29,2,942,2717,Please note: Credit card fees apply.,471,0,False,12.0,24,2,1115,2717,Credit,80
+53,,, swiss, calibri,8,,29,2,942,2717,Please note: Credit card fees apply.,471,0,False,10.0,24,3,1205,2717,card,55
+54,,, swiss, calibri,8,,29,2,942,2717,Please note: Credit card fees apply.,471,0,False,10.0,24,4,1270,2717,fees,56
+55,,, swiss, calibri,8,,29,2,942,2717,Please note: Credit card fees apply.,471,0,False,9.0,29,5,1335,2717,apply.,78
